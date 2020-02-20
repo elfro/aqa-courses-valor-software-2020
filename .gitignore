@@ -1,0 +1,13 @@
+# IDEs and editors
+.idea/*
+
+# dependencies
+/node_modules
+
+#Protractor, Jasmine
+/results/*
+
+#Cypress
+/cypress/videos/*
+/cypress/screenshots/*
+/cypress/integration/examples/*

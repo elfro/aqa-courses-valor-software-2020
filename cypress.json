@@ -1,0 +1,10 @@
+{
+  "baseUrl": "https://google.com",
+  "chromeWebSecurity": false,
+  "video": false,
+  "viewportWidth": 1920,
+  "viewportHeight": 1080,
+  "pageLoadTimeout": 100000,
+  "projectId": "c2sd1i",
+  "testFiles": "**/*spec.ts"
+}
